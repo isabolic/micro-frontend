@@ -14,6 +14,7 @@ specifiers:
   tailwindcss: ^2.0.2
   typescript: 4.4.3
   vue: ^2.6.14
+  vue-hot-reload-api: ^2.3.4
   vue-loader: ^14.2.2
   vue-template-compiler: ^2.5.13
   webpack: ^5.57.1
@@ -22,6 +23,7 @@ specifiers:
 
 dependencies:
   vue: 2.7.14
+  vue-hot-reload-api: 2.3.4
 
 devDependencies:
   '@babel/core': 7.20.2
@@ -4515,7 +4517,6 @@ packages:
 
   /vue-hot-reload-api/2.3.4:
     resolution: {integrity: sha512-BXq3jwIagosjgNVae6tkHzzIk6a8MHFtzAdwhnV5VlvPTFxDCvIttgSiHWjdGoTJvXtmRu5HacExfdarRcFhog==}
-    dev: true
 
   /vue-loader/14.2.4_tqysfoed3q5cx6v2qkbrnt4hp4:
     resolution: {integrity: sha512-bub2/rcTMJ3etEbbeehdH2Em3G2F5vZIjMK7ZUePj5UtgmZSTtOX1xVVawDpDsy021s3vQpO6VpWJ3z3nO8dDw==}
